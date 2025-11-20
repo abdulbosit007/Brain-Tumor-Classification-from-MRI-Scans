@@ -1,0 +1,574 @@
+filepath,label
+data/raw/train/Glioma/gg (131).jpg,Glioma
+data/raw/train/Glioma/gg (713).jpg,Glioma
+data/raw/train/Glioma/gg (511).jpg,Glioma
+data/raw/train/Glioma/gg (33).jpg,Glioma
+data/raw/train/Glioma/gg (371).jpg,Glioma
+data/raw/train/Glioma/gg (681).jpg,Glioma
+data/raw/train/Glioma/gg (80).jpg,Glioma
+data/raw/train/Glioma/gg (707).jpg,Glioma
+data/raw/train/Glioma/gg (747).jpg,Glioma
+data/raw/train/Glioma/gg (4).jpg,Glioma
+data/raw/train/Glioma/gg (672).jpg,Glioma
+data/raw/train/Glioma/gg (280).jpg,Glioma
+data/raw/train/Glioma/gg (472).jpg,Glioma
+data/raw/train/Glioma/gg (677).jpg,Glioma
+data/raw/train/Glioma/gg (465).jpg,Glioma
+data/raw/train/Glioma/gg (431).jpg,Glioma
+data/raw/train/Glioma/gg (761).jpg,Glioma
+data/raw/train/Glioma/gg (513).jpg,Glioma
+data/raw/train/Glioma/gg (734).jpg,Glioma
+data/raw/train/Glioma/gg (388).jpg,Glioma
+data/raw/train/Glioma/gg (414).jpg,Glioma
+data/raw/train/Glioma/gg (528).jpg,Glioma
+data/raw/train/Glioma/gg (686).jpg,Glioma
+data/raw/train/Glioma/gg (96).jpg,Glioma
+data/raw/train/Glioma/gg (551).jpg,Glioma
+data/raw/train/Glioma/gg (305).jpg,Glioma
+data/raw/train/Glioma/gg (179).jpg,Glioma
+data/raw/train/Glioma/gg (314).jpg,Glioma
+data/raw/train/Glioma/gg (46).jpg,Glioma
+data/raw/train/Glioma/gg (70).jpg,Glioma
+data/raw/train/Glioma/gg (120).jpg,Glioma
+data/raw/train/Glioma/gg (212).jpg,Glioma
+data/raw/train/Glioma/gg (308).jpg,Glioma
+data/raw/train/Glioma/gg (780).jpg,Glioma
+data/raw/train/Glioma/gg (652).jpg,Glioma
+data/raw/train/Glioma/gg (28).jpg,Glioma
+data/raw/train/Glioma/gg (338).jpg,Glioma
+data/raw/train/Glioma/gg (696).jpg,Glioma
+data/raw/train/Glioma/gg (337).jpg,Glioma
+data/raw/train/Glioma/gg (143).jpg,Glioma
+data/raw/train/Glioma/gg (182).jpg,Glioma
+data/raw/train/Glioma/gg (804).jpg,Glioma
+data/raw/train/Glioma/gg (266).jpg,Glioma
+data/raw/train/Glioma/gg (598).jpg,Glioma
+data/raw/train/Glioma/gg (114).jpg,Glioma
+data/raw/train/Glioma/gg (555).jpg,Glioma
+data/raw/train/Glioma/gg (129).jpg,Glioma
+data/raw/train/Glioma/gg (493).jpg,Glioma
+data/raw/train/Glioma/gg (702).jpg,Glioma
+data/raw/train/Glioma/gg (360).jpg,Glioma
+data/raw/train/Glioma/gg (673).jpg,Glioma
+data/raw/train/Glioma/gg (671).jpg,Glioma
+data/raw/train/Glioma/gg (125).jpg,Glioma
+data/raw/train/Glioma/gg (769).jpg,Glioma
+data/raw/train/Glioma/gg (458).jpg,Glioma
+data/raw/train/Glioma/gg (550).jpg,Glioma
+data/raw/train/Glioma/gg (765).jpg,Glioma
+data/raw/train/Glioma/gg (48).jpg,Glioma
+data/raw/train/Glioma/gg (17).jpg,Glioma
+data/raw/train/Glioma/gg (255).jpg,Glioma
+data/raw/train/Glioma/gg (482).jpg,Glioma
+data/raw/train/Glioma/gg (792).jpg,Glioma
+data/raw/train/Glioma/gg (743).jpg,Glioma
+data/raw/train/Glioma/gg (604).jpg,Glioma
+data/raw/train/Glioma/gg (157).jpg,Glioma
+data/raw/train/Glioma/gg (199).jpg,Glioma
+data/raw/train/Glioma/gg (462).jpg,Glioma
+data/raw/train/Glioma/gg (662).jpg,Glioma
+data/raw/train/Glioma/gg (514).jpg,Glioma
+data/raw/train/Glioma/gg (536).jpg,Glioma
+data/raw/train/Glioma/gg (256).jpg,Glioma
+data/raw/train/Glioma/gg (269).jpg,Glioma
+data/raw/train/Glioma/gg (509).jpg,Glioma
+data/raw/train/Glioma/gg (644).jpg,Glioma
+data/raw/train/Glioma/gg (107).jpg,Glioma
+data/raw/train/Glioma/gg (232).jpg,Glioma
+data/raw/train/Glioma/gg (144).jpg,Glioma
+data/raw/train/Glioma/gg (716).jpg,Glioma
+data/raw/train/Glioma/gg (65).jpg,Glioma
+data/raw/train/Glioma/gg (321).jpg,Glioma
+data/raw/train/Glioma/gg (194).jpg,Glioma
+data/raw/train/Glioma/gg (166).jpg,Glioma
+data/raw/train/Glioma/gg (110).jpg,Glioma
+data/raw/train/Glioma/gg (299).jpg,Glioma
+data/raw/train/Glioma/gg (718).jpg,Glioma
+data/raw/train/Glioma/gg (572).jpg,Glioma
+data/raw/train/Glioma/gg (667).jpg,Glioma
+data/raw/train/Glioma/gg (599).jpg,Glioma
+data/raw/train/Glioma/gg (311).jpg,Glioma
+data/raw/train/Glioma/gg (721).jpg,Glioma
+data/raw/train/Glioma/gg (303).jpg,Glioma
+data/raw/train/Glioma/gg (559).jpg,Glioma
+data/raw/train/Glioma/gg (816).jpg,Glioma
+data/raw/train/Glioma/gg (323).jpg,Glioma
+data/raw/train/Glioma/gg (632).jpg,Glioma
+data/raw/train/Glioma/gg (405).jpg,Glioma
+data/raw/train/Glioma/gg (64).jpg,Glioma
+data/raw/train/Glioma/gg (541).jpg,Glioma
+data/raw/train/Glioma/gg (444).jpg,Glioma
+data/raw/train/Glioma/gg (83).jpg,Glioma
+data/raw/train/Glioma/gg (278).jpg,Glioma
+data/raw/train/Glioma/gg (610).jpg,Glioma
+data/raw/train/Glioma/gg (701).jpg,Glioma
+data/raw/train/Glioma/gg (97).jpg,Glioma
+data/raw/train/Glioma/gg (545).jpg,Glioma
+data/raw/train/Glioma/gg (693).jpg,Glioma
+data/raw/train/Glioma/gg (618).jpg,Glioma
+data/raw/train/Glioma/gg (38).jpg,Glioma
+data/raw/train/Glioma/gg (377).jpg,Glioma
+data/raw/train/Glioma/gg (234).jpg,Glioma
+data/raw/train/Glioma/gg (106).jpg,Glioma
+data/raw/train/Glioma/gg (735).jpg,Glioma
+data/raw/train/Glioma/gg (124).jpg,Glioma
+data/raw/train/Glioma/gg (794).jpg,Glioma
+data/raw/train/Glioma/gg (479).jpg,Glioma
+data/raw/train/Glioma/gg (344).jpg,Glioma
+data/raw/train/Glioma/gg (759).jpg,Glioma
+data/raw/train/Glioma/gg (6).jpg,Glioma
+data/raw/train/Glioma/gg (427).jpg,Glioma
+data/raw/train/Glioma/gg (108).jpg,Glioma
+data/raw/train/Glioma/gg (648).jpg,Glioma
+data/raw/train/Glioma/gg (349).jpg,Glioma
+data/raw/train/Glioma/gg (500).jpg,Glioma
+data/raw/train/Glioma/gg (58).jpg,Glioma
+data/raw/train/Glioma/gg (291).jpg,Glioma
+data/raw/train/Glioma/gg (62).jpg,Glioma
+data/raw/train/Glioma/gg (583).jpg,Glioma
+data/raw/train/Glioma/gg (485).jpg,Glioma
+data/raw/train/Glioma/gg (646).jpg,Glioma
+data/raw/train/Glioma/gg (580).jpg,Glioma
+data/raw/train/Glioma/gg (312).jpg,Glioma
+data/raw/train/Glioma/gg (325).jpg,Glioma
+data/raw/train/Glioma/gg (439).jpg,Glioma
+data/raw/train/Glioma/gg (558).jpg,Glioma
+data/raw/train/Glioma/gg (437).jpg,Glioma
+data/raw/train/Glioma/gg (617).jpg,Glioma
+data/raw/train/Glioma/gg (78).jpg,Glioma
+data/raw/train/Glioma/gg (307).jpg,Glioma
+data/raw/train/Glioma/gg (752).jpg,Glioma
+data/raw/train/Glioma/gg (628).jpg,Glioma
+data/raw/train/Glioma/gg (453).jpg,Glioma
+data/raw/train/Glioma/gg (788).jpg,Glioma
+data/raw/train/Glioma/gg (383).jpg,Glioma
+data/raw/train/Glioma/gg (810).jpg,Glioma
+data/raw/train/Glioma/gg (430).jpg,Glioma
+data/raw/train/Glioma/gg (634).jpg,Glioma
+data/raw/train/Glioma/gg (57).jpg,Glioma
+data/raw/train/Glioma/gg (137).jpg,Glioma
+data/raw/train/Glioma/gg (774).jpg,Glioma
+data/raw/train/Glioma/gg (460).jpg,Glioma
+data/raw/train/Glioma/gg (245).jpg,Glioma
+data/raw/train/Glioma/gg (639).jpg,Glioma
+data/raw/train/Glioma/gg (653).jpg,Glioma
+data/raw/train/Glioma/gg (736).jpg,Glioma
+data/raw/train/Glioma/gg (553).jpg,Glioma
+data/raw/train/Glioma/gg (452).jpg,Glioma
+data/raw/train/Glioma/gg (684).jpg,Glioma
+data/raw/train/Glioma/gg (785).jpg,Glioma
+data/raw/train/Glioma/gg (364).jpg,Glioma
+data/raw/train/Glioma/gg (724).jpg,Glioma
+data/raw/train/Glioma/gg (222).jpg,Glioma
+data/raw/train/Glioma/gg (254).jpg,Glioma
+data/raw/train/Glioma/gg (384).jpg,Glioma
+data/raw/train/Glioma/gg (461).jpg,Glioma
+data/raw/train/Glioma/gg (438).jpg,Glioma
+data/raw/train/Meningioma/m (127).jpg,Meningioma
+data/raw/train/Meningioma/m3 (202).jpg,Meningioma
+data/raw/train/Meningioma/m3 (49).jpg,Meningioma
+data/raw/train/Meningioma/m3 (203).jpg,Meningioma
+data/raw/train/Meningioma/m1(11).jpg,Meningioma
+data/raw/train/Meningioma/m (151).jpg,Meningioma
+data/raw/train/Meningioma/m (73).jpg,Meningioma
+data/raw/train/Meningioma/m2 (134).jpg,Meningioma
+data/raw/train/Meningioma/m2 (18).jpg,Meningioma
+data/raw/train/Meningioma/m3 (185).jpg,Meningioma
+data/raw/train/Meningioma/m (190).jpg,Meningioma
+data/raw/train/Meningioma/m3 (40).jpg,Meningioma
+data/raw/train/Meningioma/m2 (162).jpg,Meningioma
+data/raw/train/Meningioma/m3 (180).jpg,Meningioma
+data/raw/train/Meningioma/m3 (243).jpg,Meningioma
+data/raw/train/Meningioma/m3 (239).jpg,Meningioma
+data/raw/train/Meningioma/m (82).jpg,Meningioma
+data/raw/train/Meningioma/m2 (23).jpg,Meningioma
+data/raw/train/Meningioma/m3 (221).jpg,Meningioma
+data/raw/train/Meningioma/m1(194).jpg,Meningioma
+data/raw/train/Meningioma/m3 (36).jpg,Meningioma
+data/raw/train/Meningioma/m2 (34).jpg,Meningioma
+data/raw/train/Meningioma/m3 (156).jpg,Meningioma
+data/raw/train/Meningioma/m (104).jpg,Meningioma
+data/raw/train/Meningioma/m3 (209).jpg,Meningioma
+data/raw/train/Meningioma/m (38).jpg,Meningioma
+data/raw/train/Meningioma/m2 (167).jpg,Meningioma
+data/raw/train/Meningioma/m (132).jpg,Meningioma
+data/raw/train/Meningioma/m (140).jpg,Meningioma
+data/raw/train/Meningioma/m (76).jpg,Meningioma
+data/raw/train/Meningioma/m (108).jpg,Meningioma
+data/raw/train/Meningioma/m1(127).jpg,Meningioma
+data/raw/train/Meningioma/m3 (85).jpg,Meningioma
+data/raw/train/Meningioma/m1(105).jpg,Meningioma
+data/raw/train/Meningioma/m (6).jpg,Meningioma
+data/raw/train/Meningioma/m1(160).jpg,Meningioma
+data/raw/train/Meningioma/m2 (39).jpg,Meningioma
+data/raw/train/Meningioma/m1(183).jpg,Meningioma
+data/raw/train/Meningioma/m (74).jpg,Meningioma
+data/raw/train/Meningioma/m1(154).jpg,Meningioma
+data/raw/train/Meningioma/m3 (42).jpg,Meningioma
+data/raw/train/Meningioma/m (161).jpg,Meningioma
+data/raw/train/Meningioma/m3 (181).jpg,Meningioma
+data/raw/train/Meningioma/m1(181).jpg,Meningioma
+data/raw/train/Meningioma/m1(23).jpg,Meningioma
+data/raw/train/Meningioma/m1(68).jpg,Meningioma
+data/raw/train/Meningioma/m (64).jpg,Meningioma
+data/raw/train/Meningioma/m3 (205).jpg,Meningioma
+data/raw/train/Meningioma/m2 (14).jpg,Meningioma
+data/raw/train/Meningioma/m3 (155).jpg,Meningioma
+data/raw/train/Meningioma/m3 (183).jpg,Meningioma
+data/raw/train/Meningioma/m (12).jpg,Meningioma
+data/raw/train/Meningioma/m1(144).jpg,Meningioma
+data/raw/train/Meningioma/m3 (132).jpg,Meningioma
+data/raw/train/Meningioma/m1(126).jpg,Meningioma
+data/raw/train/Meningioma/m1(16).jpg,Meningioma
+data/raw/train/Meningioma/m2 (129).jpg,Meningioma
+data/raw/train/Meningioma/m1(87).jpg,Meningioma
+data/raw/train/Meningioma/m (68).jpg,Meningioma
+data/raw/train/Meningioma/m2 (65).jpg,Meningioma
+data/raw/train/Meningioma/m1(75).jpg,Meningioma
+data/raw/train/Meningioma/m1(82).jpg,Meningioma
+data/raw/train/Meningioma/m (138).jpg,Meningioma
+data/raw/train/Meningioma/m2 (38).jpg,Meningioma
+data/raw/train/Meningioma/m (187).jpg,Meningioma
+data/raw/train/Meningioma/m1(41).jpg,Meningioma
+data/raw/train/Meningioma/m1(81).jpg,Meningioma
+data/raw/train/Meningioma/m3 (226).jpg,Meningioma
+data/raw/train/Meningioma/m1(198).jpg,Meningioma
+data/raw/train/Meningioma/m1(14).jpg,Meningioma
+data/raw/train/Meningioma/m1(162).jpg,Meningioma
+data/raw/train/Meningioma/m2 (30).jpg,Meningioma
+data/raw/train/Meningioma/m (185).jpg,Meningioma
+data/raw/train/Meningioma/m2 (77).jpg,Meningioma
+data/raw/train/Meningioma/m2 (61).jpg,Meningioma
+data/raw/train/Meningioma/m3 (140).jpg,Meningioma
+data/raw/train/Meningioma/m1(104).jpg,Meningioma
+data/raw/train/Meningioma/m (148).jpg,Meningioma
+data/raw/train/Meningioma/m (143).jpg,Meningioma
+data/raw/train/Meningioma/m3 (187).jpg,Meningioma
+data/raw/train/Meningioma/m2 (170).jpg,Meningioma
+data/raw/train/Meningioma/m2 (101).jpg,Meningioma
+data/raw/train/Meningioma/m1(86).jpg,Meningioma
+data/raw/train/Meningioma/m (173).jpg,Meningioma
+data/raw/train/Meningioma/m (49).jpg,Meningioma
+data/raw/train/Meningioma/m (107).jpg,Meningioma
+data/raw/train/Meningioma/m2 (63).jpg,Meningioma
+data/raw/train/Meningioma/m2 (107).jpg,Meningioma
+data/raw/train/Meningioma/m3 (63).jpg,Meningioma
+data/raw/train/Meningioma/m2 (24).jpg,Meningioma
+data/raw/train/Meningioma/m2 (13).jpg,Meningioma
+data/raw/train/Meningioma/m (10).jpg,Meningioma
+data/raw/train/Meningioma/m3 (172).jpg,Meningioma
+data/raw/train/Meningioma/m (139).jpg,Meningioma
+data/raw/train/Meningioma/m1(113).jpg,Meningioma
+data/raw/train/Meningioma/m2 (157).jpg,Meningioma
+data/raw/train/Meningioma/m (19).jpg,Meningioma
+data/raw/train/Meningioma/m3 (117).jpg,Meningioma
+data/raw/train/Meningioma/m2 (93).jpg,Meningioma
+data/raw/train/Meningioma/m (130).jpg,Meningioma
+data/raw/train/Meningioma/m (18).jpg,Meningioma
+data/raw/train/Meningioma/m2 (55).jpg,Meningioma
+data/raw/train/Meningioma/m1(106).jpg,Meningioma
+data/raw/train/Meningioma/m3 (28).jpg,Meningioma
+data/raw/train/Meningioma/m1(42).jpg,Meningioma
+data/raw/train/Meningioma/m3 (115).jpg,Meningioma
+data/raw/train/Meningioma/m1(175).jpg,Meningioma
+data/raw/train/Meningioma/m (170).jpg,Meningioma
+data/raw/train/Meningioma/m1(92).jpg,Meningioma
+data/raw/train/Meningioma/m (194).jpg,Meningioma
+data/raw/train/Meningioma/m (189).jpg,Meningioma
+data/raw/train/Meningioma/m1(117).jpg,Meningioma
+data/raw/train/Meningioma/m2 (124).jpg,Meningioma
+data/raw/train/Meningioma/m2 (125).jpg,Meningioma
+data/raw/train/Meningioma/m (193).jpg,Meningioma
+data/raw/train/Meningioma/m (32).jpg,Meningioma
+data/raw/train/Meningioma/m3 (56).jpg,Meningioma
+data/raw/train/Meningioma/m1(157).jpg,Meningioma
+data/raw/train/Meningioma/m3 (53).jpg,Meningioma
+data/raw/train/Meningioma/m3 (20).jpg,Meningioma
+data/raw/train/Meningioma/m (142).jpg,Meningioma
+data/raw/train/Meningioma/m1(2).jpg,Meningioma
+data/raw/train/Meningioma/m3 (67).jpg,Meningioma
+data/raw/train/Meningioma/m3 (227).jpg,Meningioma
+data/raw/train/Meningioma/m (8).jpg,Meningioma
+data/raw/train/Meningioma/m (41).jpg,Meningioma
+data/raw/train/Meningioma/m2 (51).jpg,Meningioma
+data/raw/train/Meningioma/m2 (133).jpg,Meningioma
+data/raw/train/Meningioma/m3 (15).jpg,Meningioma
+data/raw/train/Meningioma/m2 (44).jpg,Meningioma
+data/raw/train/Meningioma/m2 (60).jpg,Meningioma
+data/raw/train/Meningioma/m3 (19).jpg,Meningioma
+data/raw/train/Meningioma/m (42).jpg,Meningioma
+data/raw/train/Meningioma/m1(186).jpg,Meningioma
+data/raw/train/Meningioma/m2 (130).jpg,Meningioma
+data/raw/train/Meningioma/m3 (225).jpg,Meningioma
+data/raw/train/Meningioma/m1(163).jpg,Meningioma
+data/raw/train/Meningioma/m3 (126).jpg,Meningioma
+data/raw/train/Meningioma/m (66).jpg,Meningioma
+data/raw/train/Meningioma/m3 (52).jpg,Meningioma
+data/raw/train/Meningioma/m1(78).jpg,Meningioma
+data/raw/train/Meningioma/m2 (114).jpg,Meningioma
+data/raw/train/Meningioma/m (47).jpg,Meningioma
+data/raw/train/Meningioma/m1(139).jpg,Meningioma
+data/raw/train/Meningioma/m2 (113).jpg,Meningioma
+data/raw/train/Meningioma/m1(69).jpg,Meningioma
+data/raw/train/Meningioma/m3 (101).jpg,Meningioma
+data/raw/train/Meningioma/m (85).jpg,Meningioma
+data/raw/train/Meningioma/m3 (216).jpg,Meningioma
+data/raw/train/Meningioma/m1(199).jpg,Meningioma
+data/raw/train/Meningioma/m1(67).jpg,Meningioma
+data/raw/train/Meningioma/m1(121).jpg,Meningioma
+data/raw/train/Meningioma/m (135).jpg,Meningioma
+data/raw/train/Meningioma/m2 (96).jpg,Meningioma
+data/raw/train/Meningioma/m (159).jpg,Meningioma
+data/raw/train/Meningioma/m1(111).jpg,Meningioma
+data/raw/train/Meningioma/m3 (173).jpg,Meningioma
+data/raw/train/Meningioma/m3 (114).jpg,Meningioma
+data/raw/train/Meningioma/m (121).jpg,Meningioma
+data/raw/train/Meningioma/m1(156).jpg,Meningioma
+data/raw/train/Meningioma/m2 (76).jpg,Meningioma
+data/raw/train/Meningioma/m2 (97).jpg,Meningioma
+data/raw/train/Meningioma/m (178).jpg,Meningioma
+data/raw/train/Meningioma/m1(158).jpg,Meningioma
+data/raw/train/NoTumor/image (26).jpg,NoTumor
+data/raw/train/NoTumor/image(223).jpg,NoTumor
+data/raw/train/NoTumor/image(234).jpg,NoTumor
+data/raw/train/NoTumor/image(52).jpg,NoTumor
+data/raw/train/NoTumor/image(161).jpg,NoTumor
+data/raw/train/NoTumor/4.jpg,NoTumor
+data/raw/train/NoTumor/image (45).jpg,NoTumor
+data/raw/train/NoTumor/image(71).jpg,NoTumor
+data/raw/train/NoTumor/image(227).jpg,NoTumor
+data/raw/train/NoTumor/image(128).jpg,NoTumor
+data/raw/train/NoTumor/image(231).jpg,NoTumor
+data/raw/train/NoTumor/image(29).jpg,NoTumor
+data/raw/train/NoTumor/image(272).jpg,NoTumor
+data/raw/train/NoTumor/image(185).jpg,NoTumor
+data/raw/train/NoTumor/image(200).jpg,NoTumor
+data/raw/train/NoTumor/image(143).jpg,NoTumor
+data/raw/train/NoTumor/image(235).jpg,NoTumor
+data/raw/train/NoTumor/image(58).jpg,NoTumor
+data/raw/train/NoTumor/image(33).jpg,NoTumor
+data/raw/train/NoTumor/image(145).jpg,NoTumor
+data/raw/train/NoTumor/image(136).jpg,NoTumor
+data/raw/train/NoTumor/image(174).jpg,NoTumor
+data/raw/train/NoTumor/image (19).jpg,NoTumor
+data/raw/train/NoTumor/image(42).jpg,NoTumor
+data/raw/train/NoTumor/image (18).jpg,NoTumor
+data/raw/train/NoTumor/image(46).jpg,NoTumor
+data/raw/train/NoTumor/image(113).jpg,NoTumor
+data/raw/train/NoTumor/image(195).jpg,NoTumor
+data/raw/train/NoTumor/image(301).jpg,NoTumor
+data/raw/train/NoTumor/image(262).jpg,NoTumor
+data/raw/train/NoTumor/image(206).jpg,NoTumor
+data/raw/train/NoTumor/image (14).jpg,NoTumor
+data/raw/train/NoTumor/image(48).jpg,NoTumor
+data/raw/train/NoTumor/image(112).jpg,NoTumor
+data/raw/train/NoTumor/image(288).jpg,NoTumor
+data/raw/train/NoTumor/image(137).jpg,NoTumor
+data/raw/train/NoTumor/image (55).jpg,NoTumor
+data/raw/train/NoTumor/image(253).jpg,NoTumor
+data/raw/train/NoTumor/image(111).jpg,NoTumor
+data/raw/train/NoTumor/image(320).jpg,NoTumor
+data/raw/train/NoTumor/image(69).jpg,NoTumor
+data/raw/train/NoTumor/image(236).jpg,NoTumor
+data/raw/train/NoTumor/image(193).jpg,NoTumor
+data/raw/train/NoTumor/image(47).jpg,NoTumor
+data/raw/train/NoTumor/image(297).jpg,NoTumor
+data/raw/train/NoTumor/image(13).jpg,NoTumor
+data/raw/train/NoTumor/image(242).jpg,NoTumor
+data/raw/train/NoTumor/image(221).jpg,NoTumor
+data/raw/train/NoTumor/image(7).jpg,NoTumor
+data/raw/train/NoTumor/image (61).jpg,NoTumor
+data/raw/train/NoTumor/image(9).jpg,NoTumor
+data/raw/train/NoTumor/image(12).jpg,NoTumor
+data/raw/train/NoTumor/image(217).jpg,NoTumor
+data/raw/train/NoTumor/image(8).jpg,NoTumor
+data/raw/train/NoTumor/image(220).jpg,NoTumor
+data/raw/train/NoTumor/image(163).jpg,NoTumor
+data/raw/train/NoTumor/image(266).jpg,NoTumor
+data/raw/train/NoTumor/image(89).jpg,NoTumor
+data/raw/train/NoTumor/image(39).jpg,NoTumor
+data/raw/train/NoTumor/image (50).jpg,NoTumor
+data/raw/train/NoTumor/image (24).jpg,NoTumor
+data/raw/train/NoTumor/2.jpg,NoTumor
+data/raw/train/NoTumor/image(100).jpg,NoTumor
+data/raw/train/NoTumor/image(152).jpg,NoTumor
+data/raw/train/NoTumor/image (48).jpg,NoTumor
+data/raw/train/NoTumor/image(202).jpg,NoTumor
+data/raw/train/NoTumor/6.jpg,NoTumor
+data/raw/train/NoTumor/image(166).jpg,NoTumor
+data/raw/train/NoTumor/image(230).jpg,NoTumor
+data/raw/train/NoTumor/image(92).jpg,NoTumor
+data/raw/train/NoTumor/image(142).jpg,NoTumor
+data/raw/train/NoTumor/image(182).jpg,NoTumor
+data/raw/train/NoTumor/image(99).jpg,NoTumor
+data/raw/train/NoTumor/image(18).jpg,NoTumor
+data/raw/train/NoTumor/image(290).jpg,NoTumor
+data/raw/train/NoTumor/image(189).jpg,NoTumor
+data/raw/train/NoTumor/image(94).jpg,NoTumor
+data/raw/train/NoTumor/image(212).jpg,NoTumor
+data/raw/train/NoTumor/image(148).jpg,NoTumor
+data/raw/train/Pituitary/p (58).jpg,Pituitary
+data/raw/train/Pituitary/p (814).jpg,Pituitary
+data/raw/train/Pituitary/p (36).jpg,Pituitary
+data/raw/train/Pituitary/p (152).jpg,Pituitary
+data/raw/train/Pituitary/p (458).jpg,Pituitary
+data/raw/train/Pituitary/p (20).jpg,Pituitary
+data/raw/train/Pituitary/p (402).jpg,Pituitary
+data/raw/train/Pituitary/p (755).jpg,Pituitary
+data/raw/train/Pituitary/p (824).jpg,Pituitary
+data/raw/train/Pituitary/p (27).jpg,Pituitary
+data/raw/train/Pituitary/p (21).jpg,Pituitary
+data/raw/train/Pituitary/p (451).jpg,Pituitary
+data/raw/train/Pituitary/p (650).jpg,Pituitary
+data/raw/train/Pituitary/p (557).jpg,Pituitary
+data/raw/train/Pituitary/p (740).jpg,Pituitary
+data/raw/train/Pituitary/p (337).jpg,Pituitary
+data/raw/train/Pituitary/p (45).jpg,Pituitary
+data/raw/train/Pituitary/p (108).jpg,Pituitary
+data/raw/train/Pituitary/p (34).jpg,Pituitary
+data/raw/train/Pituitary/p (518).jpg,Pituitary
+data/raw/train/Pituitary/p (307).jpg,Pituitary
+data/raw/train/Pituitary/p (542).jpg,Pituitary
+data/raw/train/Pituitary/p (144).jpg,Pituitary
+data/raw/train/Pituitary/p (476).jpg,Pituitary
+data/raw/train/Pituitary/p (546).jpg,Pituitary
+data/raw/train/Pituitary/p (818).jpg,Pituitary
+data/raw/train/Pituitary/p (10).jpg,Pituitary
+data/raw/train/Pituitary/p (131).jpg,Pituitary
+data/raw/train/Pituitary/p (399).jpg,Pituitary
+data/raw/train/Pituitary/p (164).jpg,Pituitary
+data/raw/train/Pituitary/p (781).jpg,Pituitary
+data/raw/train/Pituitary/p (349).jpg,Pituitary
+data/raw/train/Pituitary/p (604).jpg,Pituitary
+data/raw/train/Pituitary/p (323).jpg,Pituitary
+data/raw/train/Pituitary/p (83).jpg,Pituitary
+data/raw/train/Pituitary/p (303).jpg,Pituitary
+data/raw/train/Pituitary/p (173).jpg,Pituitary
+data/raw/train/Pituitary/p (622).jpg,Pituitary
+data/raw/train/Pituitary/p (776).jpg,Pituitary
+data/raw/train/Pituitary/p (530).jpg,Pituitary
+data/raw/train/Pituitary/p (710).jpg,Pituitary
+data/raw/train/Pituitary/p (2).jpg,Pituitary
+data/raw/train/Pituitary/p (445).jpg,Pituitary
+data/raw/train/Pituitary/p (414).jpg,Pituitary
+data/raw/train/Pituitary/p (769).jpg,Pituitary
+data/raw/train/Pituitary/p (771).jpg,Pituitary
+data/raw/train/Pituitary/p (141).jpg,Pituitary
+data/raw/train/Pituitary/p (268).jpg,Pituitary
+data/raw/train/Pituitary/p (170).jpg,Pituitary
+data/raw/train/Pituitary/p (346).jpg,Pituitary
+data/raw/train/Pituitary/p (183).jpg,Pituitary
+data/raw/train/Pituitary/p (463).jpg,Pituitary
+data/raw/train/Pituitary/p (796).jpg,Pituitary
+data/raw/train/Pituitary/p (277).jpg,Pituitary
+data/raw/train/Pituitary/p (495).jpg,Pituitary
+data/raw/train/Pituitary/p (266).jpg,Pituitary
+data/raw/train/Pituitary/p (726).jpg,Pituitary
+data/raw/train/Pituitary/p (653).jpg,Pituitary
+data/raw/train/Pituitary/p (700).jpg,Pituitary
+data/raw/train/Pituitary/p (30).jpg,Pituitary
+data/raw/train/Pituitary/p (398).jpg,Pituitary
+data/raw/train/Pituitary/p (255).jpg,Pituitary
+data/raw/train/Pituitary/p (120).jpg,Pituitary
+data/raw/train/Pituitary/p (403).jpg,Pituitary
+data/raw/train/Pituitary/p (722).jpg,Pituitary
+data/raw/train/Pituitary/p (370).jpg,Pituitary
+data/raw/train/Pituitary/p (468).jpg,Pituitary
+data/raw/train/Pituitary/p (181).jpg,Pituitary
+data/raw/train/Pituitary/p (720).jpg,Pituitary
+data/raw/train/Pituitary/p (89).jpg,Pituitary
+data/raw/train/Pituitary/p (353).jpg,Pituitary
+data/raw/train/Pituitary/p (479).jpg,Pituitary
+data/raw/train/Pituitary/p (743).jpg,Pituitary
+data/raw/train/Pituitary/p (5).jpg,Pituitary
+data/raw/train/Pituitary/p (671).jpg,Pituitary
+data/raw/train/Pituitary/p (119).jpg,Pituitary
+data/raw/train/Pituitary/p (325).jpg,Pituitary
+data/raw/train/Pituitary/p (615).jpg,Pituitary
+data/raw/train/Pituitary/p (656).jpg,Pituitary
+data/raw/train/Pituitary/p (795).jpg,Pituitary
+data/raw/train/Pituitary/p (176).jpg,Pituitary
+data/raw/train/Pituitary/p (589).jpg,Pituitary
+data/raw/train/Pituitary/p (682).jpg,Pituitary
+data/raw/train/Pituitary/p (744).jpg,Pituitary
+data/raw/train/Pituitary/p (28).jpg,Pituitary
+data/raw/train/Pituitary/p (285).jpg,Pituitary
+data/raw/train/Pituitary/p (386).jpg,Pituitary
+data/raw/train/Pituitary/p (570).jpg,Pituitary
+data/raw/train/Pituitary/p (429).jpg,Pituitary
+data/raw/train/Pituitary/p (598).jpg,Pituitary
+data/raw/train/Pituitary/p (294).jpg,Pituitary
+data/raw/train/Pituitary/p (49).jpg,Pituitary
+data/raw/train/Pituitary/p (692).jpg,Pituitary
+data/raw/train/Pituitary/p (312).jpg,Pituitary
+data/raw/train/Pituitary/p (132).jpg,Pituitary
+data/raw/train/Pituitary/p (157).jpg,Pituitary
+data/raw/train/Pituitary/p (354).jpg,Pituitary
+data/raw/train/Pituitary/p (361).jpg,Pituitary
+data/raw/train/Pituitary/p (730).jpg,Pituitary
+data/raw/train/Pituitary/p (123).jpg,Pituitary
+data/raw/train/Pituitary/p (161).jpg,Pituitary
+data/raw/train/Pituitary/p (3).jpg,Pituitary
+data/raw/train/Pituitary/p (465).jpg,Pituitary
+data/raw/train/Pituitary/p (288).jpg,Pituitary
+data/raw/train/Pituitary/p (579).jpg,Pituitary
+data/raw/train/Pituitary/p (789).jpg,Pituitary
+data/raw/train/Pituitary/p (335).jpg,Pituitary
+data/raw/train/Pituitary/p (104).jpg,Pituitary
+data/raw/train/Pituitary/p (62).jpg,Pituitary
+data/raw/train/Pituitary/p (177).jpg,Pituitary
+data/raw/train/Pituitary/p (581).jpg,Pituitary
+data/raw/train/Pituitary/p (701).jpg,Pituitary
+data/raw/train/Pituitary/p (493).jpg,Pituitary
+data/raw/train/Pituitary/p (226).jpg,Pituitary
+data/raw/train/Pituitary/p (11).jpg,Pituitary
+data/raw/train/Pituitary/p (427).jpg,Pituitary
+data/raw/train/Pituitary/p (697).jpg,Pituitary
+data/raw/train/Pituitary/p (234).jpg,Pituitary
+data/raw/train/Pituitary/p (405).jpg,Pituitary
+data/raw/train/Pituitary/p (661).jpg,Pituitary
+data/raw/train/Pituitary/p (638).jpg,Pituitary
+data/raw/train/Pituitary/p (802).jpg,Pituitary
+data/raw/train/Pituitary/p (547).jpg,Pituitary
+data/raw/train/Pituitary/p (88).jpg,Pituitary
+data/raw/train/Pituitary/p (147).jpg,Pituitary
+data/raw/train/Pituitary/p (92).jpg,Pituitary
+data/raw/train/Pituitary/p (435).jpg,Pituitary
+data/raw/train/Pituitary/p (348).jpg,Pituitary
+data/raw/train/Pituitary/p (774).jpg,Pituitary
+data/raw/train/Pituitary/p (351).jpg,Pituitary
+data/raw/train/Pituitary/p (567).jpg,Pituitary
+data/raw/train/Pituitary/p (448).jpg,Pituitary
+data/raw/train/Pituitary/p (680).jpg,Pituitary
+data/raw/train/Pituitary/p (204).jpg,Pituitary
+data/raw/train/Pituitary/p (99).jpg,Pituitary
+data/raw/train/Pituitary/p (808).jpg,Pituitary
+data/raw/train/Pituitary/p (241).jpg,Pituitary
+data/raw/train/Pituitary/p (480).jpg,Pituitary
+data/raw/train/Pituitary/p (263).jpg,Pituitary
+data/raw/train/Pituitary/p (369).jpg,Pituitary
+data/raw/train/Pituitary/p (278).jpg,Pituitary
+data/raw/train/Pituitary/p (807).jpg,Pituitary
+data/raw/train/Pituitary/p (295).jpg,Pituitary
+data/raw/train/Pituitary/p (534).jpg,Pituitary
+data/raw/train/Pituitary/p (625).jpg,Pituitary
+data/raw/train/Pituitary/p (128).jpg,Pituitary
+data/raw/train/Pituitary/p (768).jpg,Pituitary
+data/raw/train/Pituitary/p (19).jpg,Pituitary
+data/raw/train/Pituitary/p (330).jpg,Pituitary
+data/raw/train/Pituitary/p (747).jpg,Pituitary
+data/raw/train/Pituitary/p (84).jpg,Pituitary
+data/raw/train/Pituitary/p (548).jpg,Pituitary
+data/raw/train/Pituitary/p (65).jpg,Pituitary
+data/raw/train/Pituitary/p (524).jpg,Pituitary
+data/raw/train/Pituitary/p (299).jpg,Pituitary
+data/raw/train/Pituitary/p (696).jpg,Pituitary
+data/raw/train/Pituitary/p (186).jpg,Pituitary
+data/raw/train/Pituitary/p (300).jpg,Pituitary
+data/raw/train/Pituitary/p (503).jpg,Pituitary
+data/raw/train/Pituitary/p (614).jpg,Pituitary
+data/raw/train/Pituitary/p (196).jpg,Pituitary
+data/raw/train/Pituitary/p (684).jpg,Pituitary
+data/raw/train/Pituitary/p (57).jpg,Pituitary
+data/raw/train/Pituitary/p (597).jpg,Pituitary
+data/raw/train/Pituitary/p (165).jpg,Pituitary
